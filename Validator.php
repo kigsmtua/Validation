@@ -2,7 +2,7 @@
 /**
  * Validator class
  * Let simplify the validation :)   
- * @author John Kiragu <john.kiragu@cellulant.com>
+ * @author John Kiragu <mutuakiragu@gmail.com>
  */
 class Validator
 {
